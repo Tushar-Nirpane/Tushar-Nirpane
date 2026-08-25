@@ -1,58 +1,68 @@
-# Tushar Nirpane
-## Founder & CTO | TUMARIS
+<div align="center">
 
-<p align="center">
-  <strong>Building innovative software solutions | Full-stack developer | Tech entrepreneur</strong>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Tushar+Nirpane;Founder+%26+CTO+at+TUMARIS;Full-Stack+Developer;Building+scalable+software+solutions" alt="typing banner" />
 
----
+<a href="https://www.linkedin.com/in/tushar-nirpane-a85aab394/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tusharnirpane07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/TUSHAR_NIRPANE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=Tushar-Nirpane&style=flat&color=39d353&label=profile+views" alt="profile views" />
 
-I'm the Founder and Chief Technology Officer at **TUMARIS**, where I lead the development of cutting-edge software solutions that empower businesses and transform ideas into scalable digital products. With expertise in full-stack development, cloud architecture, and open-source technologies, I'm passionate about building robust, efficient, and user-centric applications.
-
-## 💼 Leadership & Vision
-
-At TUMARIS, I focus on:
-- **Product Development**: Building scalable solutions that drive business impact
-- **Team Leadership**: Mentoring talented developers and fostering a culture of innovation
-- **Technology Strategy**: Leveraging emerging technologies to stay ahead of industry trends
-- **Open Source**: Contributing to the developer community and maintaining impactful projects
-
-## 🛠️ Technical Stack
-
-- **Languages**: C, JavaScript, Python, HTML, CSS
-- **Frontend**: React.js, Bootstrap, Responsive Design
-- **Backend**: Node.js, API Development, Database Management
-- **Tools**: Git, Docker, Cloud Platforms, REST APIs
-
-## 🌟 Featured Projects
-
-- **C Programming Suite**: Comprehensive collection of C programs and algorithms
-- **Full-Stack Applications**: End-to-end solutions with modern web technologies
-- **Open Source Contributions**: Active contributor to the developer community
-
-## 📊 GitHub Statistics
-
-- 55+ contributions this year
-- 10+ public repositories
-- Active collaborator and open-source enthusiast
-
-## 🎯 Current Focus
-
-- Scaling TUMARIS globally
-- Developing innovative SaaS products
-- Mentoring the next generation of developers
-- Contributing to open-source projects
-
-## 📞 Connect With Me
-
-- **Email**: tusharnirpane07@gmail.com
-- **LinkedIn**: [linkedin.com/in/tushar-nirpane](https://www.linkedin.com/in/tushar-nirpane-a85aab394/)
-
+</div>
 
 ---
 
-<p align="center">
-  <strong>Let's build something amazing together! 🌟</strong>
-</p>
+## `~/` whoami
+
+```
+$ cat about.txt
+```
+
+Founder & CTO at **TUMARIS** — I build full-stack products end to end: from the
+first line of code to the demo that has to work in the room. Comfortable moving
+between C/C++ fundamentals, React front ends, and Node backends, and I like
+projects with a strong visual identity as much as a solid architecture.
+
+- Currently leading product & engineering at **TUMARIS**
+- Building **[KrishiMitra-AI](https://github.com/Tushar-Nirpane/KrishiMitra-AI)**
+- Also into full-stack clones and systems projects — see below
+- Based in Pune, India
+
+## `~/` toolbox
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,py,html,css,react,bootstrap,nodejs,git,docker&perline=11" alt="tech stack" />
+
+---
+
+## `~/` contribution calendar
+
+<img src="https://github.com/Tushar-Nirpane/Tushar-Nirpane/raw/main/assets/metrics.isocalendar.svg" alt="3D isometric contribution calendar" />
+
+<img src="https://raw.githubusercontent.com/Tushar-Nirpane/Tushar-Nirpane/output/snake.svg" alt="snake eating the contribution graph" />
+
+---
+
+## `~/` the numbers
+
+<img src="https://github.com/Tushar-Nirpane/Tushar-Nirpane/raw/main/assets/card-stats-dark.svg" alt="GitHub statistics" />
+
+<img src="https://github.com/Tushar-Nirpane/Tushar-Nirpane/raw/main/assets/metrics.languages.svg" alt="most used languages" />
+
+---
+
+## `~/` selected work
+
+| project | description | stack |
+|---|---|---|
+| **[KrishiMitra-AI](https://github.com/Tushar-Nirpane/KrishiMitra-AI)** | AI-assisted project | `JavaScript` |
+| **[NEXTCHAT](https://github.com/Tushar-Nirpane/NEXTCHAT)** | Discord clone | `JavaScript` |
+| **[C-PROJECTS](https://github.com/Tushar-Nirpane/C-PROJECTS)** | 10 systems-programming projects in C | `C` |
+| **[C_plus_plus](https://github.com/Tushar-Nirpane/C_plus_plus)** | C++ programs & algorithms | `C++` |
+
+---
+
+<div align="center">
+
+**Let's build something amazing together 🌟**
+
+</div>
