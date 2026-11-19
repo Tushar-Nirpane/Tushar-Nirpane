@@ -11,7 +11,7 @@
 <a href="https://leetcode.com/u/TUSHAR_NIRPANE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://github.com/Tushar-Nirpane"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Tushar-Nirpane&style=for-the-badge&color=00E5FF&labelColor=0B0F19&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Tushar-Nirpane?style=for-the-badge&color=7C3AED&labelColor=0B0F19&label=FOLLOWERS" alt="Followers" />
@@ -77,12 +77,12 @@ I build products end to end — from the first line of code to the demo that has
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[KrishiMitra-AI](https://github.com/Tushar-Nirpane/KrishiMitra-AI)** | AI copilot for farmers — chatbot plus crop-disease models behind a FastAPI service | `Python` `FastAPI` `scikit-learn` `React` |
-| **[Hearth](https://github.com/Tushar-Nirpane/Hearth)** <br/>[▸ live](https://hearth-production-8551.up.railway.app) | Self-hosted MCP server that gives Alexa+ a working memory of a house | `TypeScript` `Docker` `MCP` |
-| **[SIR-ASSIST](https://github.com/Tushar-Nirpane/SIR-ASSIST)** | Document-lineage verification for India's SIR — DOB rule engine plus fuzzy record matching | `Python` `FastAPI` `PostgreSQL` |
-| **[OOPS-Mini-Project](https://github.com/Tushar-Nirpane/OOPS-Mini-Project)** <br/>[▸ live](https://oops-online-quiz-system.onrender.com) | Online quiz system: C++17 OOP backend, REST API, web front end, containerised | `C++17` `REST` `Docker` |
-| **[DAKSHYA](https://github.com/Tushar-Nirpane/DAKSHYA)** | Static Tailwind site rebuilt as a Next.js 14 app with Framer Motion throughout | `Next.js` `Framer Motion` |
-| **[NEXTCHAT](https://github.com/Tushar-Nirpane/NEXTCHAT)** | Discord-style real-time chat clone | `JavaScript` `React` |
+| **[KrishiMitra-AI](https://github.com/Tushar-Nirpane/KrishiMitra-AI)** | AI copilot for farmers — chatbot plus crop-disease models behind a FastAPI service | Python · FastAPI · scikit-learn · React |
+| **[Hearth](https://github.com/Tushar-Nirpane/Hearth)** <br/>[▸ live](https://hearth-production-8551.up.railway.app) | Self-hosted MCP server that gives Alexa+ a working memory of a house | TypeScript · Docker · MCP |
+| **[SIR-ASSIST](https://github.com/Tushar-Nirpane/SIR-ASSIST)** | Document-lineage verification for India's SIR — DOB rule engine plus fuzzy record matching | Python · FastAPI · PostgreSQL |
+| **[OOPS-Mini-Project](https://github.com/Tushar-Nirpane/OOPS-Mini-Project)** <br/>[▸ live](https://oops-online-quiz-system.onrender.com) | Online quiz system: C++17 OOP backend, REST API, web front end, containerised | C++17 · REST · Docker |
+| **[DAKSHYA](https://github.com/Tushar-Nirpane/DAKSHYA)** | Static Tailwind site rebuilt as a Next.js 14 app with Framer Motion throughout | Next.js · Framer Motion |
+| **[NEXTCHAT](https://github.com/Tushar-Nirpane/NEXTCHAT)** | Discord-style real-time chat clone | JavaScript · React |
 
 ---
 
@@ -90,16 +90,16 @@ I build products end to end — from the first line of code to the demo that has
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tushar-Nirpane&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B0F19&title_color=00E5FF&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Nirpane&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F19&title_color=00E5FF&text_color=c9d1d9" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tushar-Nirpane&show_icons=true&include_all_commits=true&hide_border=false&border_color=7C3AED&border_radius=8&bg_color=0B0F19&title_color=00E5FF&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Nirpane&layout=compact&langs_count=8&hide_border=false&border_color=7C3AED&border_radius=8&bg_color=0B0F19&title_color=00E5FF&text_color=c9d1d9" alt="Top languages" />
 
 <br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Tushar-Nirpane&hide_border=true&background=0B0F19&stroke=7C3AED&ring=00E5FF&fire=39FF88&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=8b949e&border_radius=8" alt="Contribution streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=Tushar-Nirpane&hide_border=false&border=7C3AED&background=0B0F19&stroke=7C3AED&ring=00E5FF&fire=39FF88&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=8b949e&border_radius=8" alt="Contribution streak" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-Nirpane&bg_color=0B0F19&color=00E5FF&line=7C3AED&point=39FF88&area=true&area_color=00E5FF&hide_border=true&custom_title=Contribution%20signal" alt="Contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-Nirpane&bg_color=0B0F19&color=00E5FF&line=7C3AED&point=39FF88&area=true&area_color=00E5FF&hide_border=false&border_color=7C3AED&border_radius=8&custom_title=Contribution%20signal" alt="Contribution activity graph" />
 
 </div>
 
