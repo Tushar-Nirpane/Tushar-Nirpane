@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,45:7C3AED,100:0B0F19&height=210&section=header&text=TUSHAR%20NIRPANE&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Founder%20%26%20CTO%20%40%20TUMARIS&descAlign=50&descAlignY=58&descSize=20&animation=twinkling" alt="Tushar Nirpane — Founder & CTO at TUMARIS" />
+<img width="100%" src="assets/banner.svg" alt="Tushar Nirpane — Founder & CTO at TUMARIS" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=00E5FF&background=0B0F19&center=true&vCenter=true&width=840&height=44&lines=%3E_ship+real+software%2C+end+to+end;%3E_C%2B%2B+%E2%86%92+React+%E2%86%92+Node.js+%E2%86%92+live;%3E_engineering+is+the+craft%2C+design+is+the+proof" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=00E5FF&background=0B0F19&center=true&vCenter=true&width=800&height=40&lines=%3E_ship+real+software%2C+end+to+end;%3E_C%2B%2B+%E2%86%92+React+%E2%86%92+Node.js+%E2%86%92+live;%3E_engineering+is+the+craft%2C+design+is+the+proof" alt="typing banner" />
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Tushar-Nirpane&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Tushar-Nirpane&style=for-the-badge&color=00E5FF&labelColor=0B0F19&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Tushar-Nirpane?style=for-the-badge&color=7C3AED&labelColor=0B0F19&label=FOLLOWERS" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Tushar-Nirpane?affiliations=OWNER&style=for-the-badge&color=39FF88&labelColor=0B0F19&label=STARS" alt="Stars" />
 
@@ -115,6 +115,6 @@ Got an idea, a broken build, or a hackathon with a deadline? I'm in.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0B0F19,55:7C3AED,100:00E5FF&text=BUILD%20%C2%B7%20SHIP%20%C2%B7%20ITERATE&fontSize=22&fontColor=ffffff&fontAlignY=74&animation=twinkling" alt="Build · Ship · Iterate" />
+<img width="100%" src="assets/footer.svg" alt="Build · Ship · Iterate" />
 
 </div>
